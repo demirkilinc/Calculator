@@ -1,6 +1,7 @@
 from tkinter import *
 
 root=Tk()
+
 root.title("Simple Calculator")
 
 e = Entry(root,width=50, bg="blue",fg="red",borderwidth=5)
